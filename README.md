@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Bruno Silva, seja Bem Vindo! 👋
 
-- 🌱 Estudando HTML, CSS e JavaScript
-- 📩 Contate-me pelo email: brunosilvaprogramador@gmail.com 
+- 🌱  Estudando HTML, CSS e JavaScript 
+- 📩  Contate-me pelo email: brunosilvaprogramador@gmail.com 
 
 <div align="center">
   <a href="https://github.com/BrunoSilvaProgramador">
